@@ -1,2 +1,3 @@
-# student-feedback-devops
-simple project using devops CI/CD concept and front end
+# Student Feedback System
+
+A simple Flask app to collect and display feedback from students.
